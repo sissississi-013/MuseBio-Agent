@@ -222,7 +222,10 @@ function addMessage(content, role, suggestedPdfs = []) {
 
     const avatar = document.createElement('div');
     avatar.className = 'message-avatar';
-    avatar.textContent = role === 'assistant' ? 'M' : 'Y';
+    const avatarImg = document.createElement('img');
+    avatarImg.src = role === 'assistant' ? '/static/avatar-muse.png' : '/static/avatar-user.png';
+    avatarImg.alt = role === 'assistant' ? 'Muse Bio' : 'You';
+    avatar.appendChild(avatarImg);
 
     const contentDiv = document.createElement('div');
     contentDiv.className = 'message-content';
@@ -328,7 +331,7 @@ function showLoading() {
     loadingDiv.id = id;
 
     loadingDiv.innerHTML = `
-        <div class="message-avatar">M</div>
+        <div class="message-avatar"><img src="/static/avatar-muse.png" alt="Muse Bio"></div>
         <div class="message-content">
             <div class="message-text">
                 <div class="typing-indicator">
@@ -367,7 +370,7 @@ function resetChat() {
     // Clear messages except welcome
     chatMessages.innerHTML = `
         <div class="message assistant-message">
-            <div class="message-avatar">M</div>
+            <div class="message-avatar"><img src="/static/avatar-muse.png" alt="Muse Bio"></div>
             <div class="message-content">
                 <div class="message-text">
                     <p>Welcome to Muse Bio! I'm here to help you learn about our menstrual blood stem cell programs.</p>
