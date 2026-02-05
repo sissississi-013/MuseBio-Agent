@@ -1256,17 +1256,6 @@ We'd love to discuss investment opportunities with qualified investors!
 2. Include brief introduction and your investment focus
 3. We'll respond within 2-3 business days to schedule initial conversation
 
-**What We'll Discuss:**
-- Current stage and traction
-- Technology and scientific approach
-- Market opportunity
-- Business model and go-to-market strategy
-- Team and advisors
-- Funding needs and use of capital
-- Timeline and milestones
-
-**Investment Info Package Available Upon Request**
-
 ---
 
 ## 13. For Potential Partners

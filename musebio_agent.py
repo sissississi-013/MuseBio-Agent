@@ -16,31 +16,13 @@ KNOWLEDGE_BASE_PATH = Path(__file__).parent / "muse_bio_ai_agent_kb_v4.md"
 PDF_DIRECTORY = Path(__file__).parent
 
 # PDF mappings - which PDFs to offer based on topic
+# NOTE: Only the menstrual cup guide is shared publicly. Other documents (eligibility screening,
+# consent forms, etc.) are confidential and information is provided verbally from the knowledge base.
 PDF_RESOURCES = {
-    "informed_consent_research": {
-        "file": "FM-0015__Informed_Consent_Form_(4).pdf",
-        "description": "Informed Consent Form for Research & Commercial Programs",
-        "triggers": ["consent", "sign up", "enroll", "join program", "participate", "icf", "informed consent"]
-    },
     "menstrual_cup_guide": {
         "file": "How_to_use_a_menstrual_cup.pdf",
         "description": "Complete Guide: How to Use a Menstrual Cup",
-        "triggers": ["cup", "menstrual cup", "how to use", "insertion", "removal", "fold", "collect sample"]
-    },
-    "donor_eligibility": {
-        "file": "REF-0005__Donor_Eligibility_Screening_Risk_Factors.pdf",
-        "description": "Donor Eligibility Screening & Risk Factors Reference",
-        "triggers": ["eligibility", "eligible", "qualify", "can i donate", "requirements", "screening", "risk factors", "deferral"]
-    },
-    "sample_collection": {
-        "file": "Sample_Collection_Instructions_Poster(1).pdf",
-        "description": "Sample Collection Instructions Poster",
-        "triggers": ["collection", "how to collect", "sample", "procedure", "what to do", "steps", "process"]
-    },
-    "complete_kb": {
-        "file": "MUSE_BIO_COMPLETE_KB_v4.md.pdf",
-        "description": "Complete Muse Bio Knowledge Base",
-        "triggers": ["everything", "all information", "complete guide", "full details"]
+        "triggers": ["cup", "menstrual cup", "how to use", "insertion", "removal", "fold", "collect sample", "using a cup"]
     }
 }
 
