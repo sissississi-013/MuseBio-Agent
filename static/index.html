@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muse Bio Assistant</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/styles.css">
+    <!-- Markdown parser -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <img src="/static/logo.webp" alt="Muse Bio" class="logo-img">
+                <p class="tagline">AI Assistant</p>
+            </div>
+
+            <nav class="sidebar-nav">
+                <button class="nav-btn active" data-action="new-chat">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 5v14M5 12h14"/>
+                    </svg>
+                    New Conversation
+                </button>
+            </nav>
+
+            <div class="quick-start">
+                <h3>Quick Start</h3>
+                <button class="quick-btn" data-type="donor">I want to donate</button>
+                <button class="quick-btn" data-type="investor">Investment inquiry</button>
+                <button class="quick-btn" data-type="partner">Partnership inquiry</button>
+            </div>
+
+            <div class="resources">
+                <h3>Resources</h3>
+                <div class="pdf-list" id="pdfList">
+                    <!-- PDFs loaded dynamically -->
+                </div>
+            </div>
+
+            <div class="sidebar-footer">
+                <a href="https://mycells.bio" target="_blank" class="footer-link">mycells.bio</a>
+                <span class="separator">|</span>
+                <a href="mailto:muse@mycells.bio" class="footer-link">Contact</a>
+            </div>
+        </aside>
+
+        <!-- Main Chat Area -->
+        <main class="chat-main">
+            <header class="chat-header">
+                <div class="header-content">
+                    <h2>Chat with Muse Bio Assistant</h2>
+                    <p class="header-subtitle" id="userTypeIndicator">Ask about donations, partnerships, or investments</p>
+                </div>
+                <div class="header-actions">
+                    <span class="session-indicator" id="sessionIndicator">New Session</span>
+                </div>
+            </header>
+
+            <div class="chat-container" id="chatContainer">
+                <div class="chat-messages" id="chatMessages">
+                    <!-- Welcome message -->
+                    <div class="message assistant-message">
+                        <div class="message-avatar">M</div>
+                        <div class="message-content">
+                            <div class="message-text">
+                                <p>Welcome to Muse Bio! I'm here to help you learn about our menstrual blood stem cell programs.</p>
+                                <p>I can assist with:</p>
+                                <ul>
+                                    <li><strong>Potential Donors</strong> - Learn about our Research Study and Commercial Donation programs</li>
+                                    <li><strong>Investors</strong> - Get information about investment opportunities</li>
+                                    <li><strong>Partners</strong> - Explore partnership possibilities</li>
+                                </ul>
+                                <p>How can I help you today?</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="chat-input-area">
+                <form id="chatForm" class="chat-form">
+                    <div class="input-wrapper">
+                        <textarea
+                            id="messageInput"
+                            placeholder="Type your message..."
+                            rows="1"
+                            autofocus
+                        ></textarea>
+                        <button type="submit" class="send-btn" id="sendBtn">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M22 2L11 13M22 2l-7 20-4-9-9-4 20-7z"/>
+                            </svg>
+                        </button>
+                    </div>
+                </form>
+                <p class="input-hint">Muse Bio is not a medical practice and cannot provide medical advice.</p>
+            </div>
+        </main>
+
+        <!-- PDF Viewer Modal -->
+        <div class="modal" id="pdfModal">
+            <div class="modal-content pdf-modal-content">
+                <div class="modal-header">
+                    <h3 id="pdfModalTitle">Document</h3>
+                    <button class="modal-close" id="closePdfModal">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M18 6L6 18M6 6l12 12"/>
+                        </svg>
+                    </button>
+                </div>
+                <div class="pdf-viewer-container">
+                    <!-- PDF viewer loaded dynamically -->
+                </div>
+                <div class="modal-footer">
+                    <a id="pdfDownloadLink" href="#" download class="download-btn">Download PDF</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

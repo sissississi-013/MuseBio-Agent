@@ -1,0 +1,12 @@
+# Muse Bio AI Agent Dependencies
+
+# Core Claude SDK
+anthropic>=0.40.0
+
+# Web API (optional - only needed for musebio_api.py)
+fastapi>=0.109.0
+uvicorn>=0.27.0
+pydantic>=2.5.0
+
+# Development (optional)
+python-dotenv>=1.0.0
