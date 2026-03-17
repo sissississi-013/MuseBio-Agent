@@ -121,7 +121,7 @@ We currently run two separate programs:
 - **Newsletter:** https://musebio.kit.com/c075845a8e
 
 ### Future Expansion
-Not in the Bay Area? We're developing an at-home collection kit so people can collect at home and ship samples to us. Stay tuned!
+Not in the Bay Area? We're working on an at-home collection kit so people can eventually collect at home and ship samples to us. You can join our newsletter to receive periodic updates.
 
 ---
 
@@ -403,7 +403,7 @@ But we totally get it - periods can be unpredictable! If you need something last
 - Pick a time slot (usually 10 AM - 2 PM, Monday-Friday)
 - Best days: Day 2 is ideal, but Days 1-3 all work
 
-**Can't Make It?** Let us know ASAP at muse@mycells.bio. We understand!
+**Can't Make It?** Let us know ASAP at aya@mycells.bio. We understand!
 
 ### What to Expect at Frontier Tower
 
@@ -840,9 +840,9 @@ During health screening interview, we'll discuss your specific situation. Many c
 ### For More Information
 
 If you're unsure about eligibility:
-1. Fill out eligibility form - we'll review it!
+1. Fill out the eligibility form (note: the current form is only for the research program — not for general donor sign-ups) — we'll review it!
 2. Schedule health screening interview - we can discuss your situation
-3. Email us at muse@mycells.bio with general questions
+3. Email aya@mycells.bio with donor or eligibility questions
 
 **Remember:** We're not a medical practice and can't provide medical advice. For questions about your health conditions, please consult your healthcare provider. During screening, we can discuss whether specific conditions affect eligibility for our programs!
 
@@ -964,8 +964,8 @@ A: Frontier Tower (995 Market St, San Francisco). That's the only location you'd
 **Q: What are your hours?**  
 A: Office: 9-5, Monday-Friday. Collections usually 10 AM - 2 PM, but we're flexible! Come whenever you're ready, though 24 hours advance notice is appreciated.
 
-**Q: How do I contact you?**  
-A: Email us at muse@mycells.bio! We're also building a WhatsApp Business account.
+**Q: How do I contact you?**
+A: For donor, menstrual cup, or eligibility questions, email aya@mycells.bio! For general or technical questions, email muse@mycells.bio.
 
 **Q: Do you have products on the market yet?**  
 A: Not yet! We're in building phase. We supply ingredients to cosmetic manufacturers, but nothing's hit shelves yet.
@@ -973,11 +973,11 @@ A: Not yet! We're in building phase. We supply ingredients to cosmetic manufactu
 **Q: Have you published research?**  
 A: Not yet, but we're working toward it as we gather data!
 
-**Q: How can I stay updated?**  
-A: Sign up for our newsletter at https://musebio.kit.com/c075845a8e, or follow us on Instagram (@muse_bio) or LinkedIn!
+**Q: How can I stay updated?**
+A: You can join our newsletter to receive periodic updates at https://musebio.kit.com/c075845a8e, or follow us on Instagram (@muse_bio) or LinkedIn!
 
-**Q: I don't live in Bay Area - can I participate?**  
-A: We're working on it! Developing at-home collection kit so people can collect at home and ship samples. Stay tuned by signing up for newsletter!
+**Q: I don't live in Bay Area - can I participate?**
+A: We're working on an at-home collection kit so people can eventually collect at home and ship samples. You can join our newsletter at https://musebio.kit.com/c075845a8e to receive periodic updates!
 
 ---
 
@@ -1014,8 +1014,8 @@ A: Absolutely! Any medical-grade silicone cup works.
 **Q: Can I keep the cup after?**  
 A: YES! It's yours. Use it for future donations, regular periods, whatever you want. One cup lasts 10 years!
 
-**Q: What if I have questions about using it?**  
-A: Just ask us! Email muse@mycells.bio or ask when you pick up your cup.
+**Q: What if I have questions about using it?**
+A: Just ask us! Email aya@mycells.bio or ask when you pick up your cup.
 
 ---
 
@@ -1045,8 +1045,8 @@ A: Day 2 of your cycle is ideal (heaviest flow, best cells), but Days 1-3 all wo
 **Q: How far in advance do I need to book?**  
 A: Please try to book at least 24 hours in advance! Really helps us prepare. BUT we understand periods are unpredictable - if you need last-minute, reach out and we'll do our best! Come whenever you're ready.
 
-**Q: What if I need to cancel?**  
-A: Just let us know ASAP at muse@mycells.bio. Life happens - we get it!
+**Q: What if I need to cancel?**
+A: Just let us know ASAP at aya@mycells.bio. Life happens - we get it!
 
 **Q: Can someone come with me?**  
 A: Sure! They can hang out in waiting area while you're in private bathroom.
@@ -1101,7 +1101,7 @@ A: Unfortunately, our programs are for ages 18-45 only.
 A: Absolutely! All gender identities are welcome. If you menstruate and meet health criteria, you're potentially eligible!
 
 **Q: I have [specific health condition] - can I donate?**  
-A: We can't make eligibility determinations without going through screening process. Best approach is to fill out eligibility form and we'll discuss your situation during health screening interview! Many conditions are assessed case-by-case.
+A: We can't make eligibility determinations without going through screening process. Best approach is to fill out the eligibility form (note: the current form is only for the research program, not for general donor sign-ups) and we'll discuss your situation during health screening interview! Many conditions are assessed case-by-case.
 
 ---
 
@@ -1174,7 +1174,7 @@ A: **Research study:** About 30-45 minutes per visit. **Commercial program:** 1.
 A: Currently yes, our only collection site is Frontier Tower in SF. BUT we're working on at-home collection kit for people to collect and ship to us - in development!
 
 **Q: What if I move away?**  
-A: If you move and can't get to SF, you wouldn't be able to keep participating. But we're working on that at-home kit! Sign up for newsletter to hear when it launches.
+A: If you move and can't get to SF, you wouldn't be able to keep participating. We're working on an at-home kit — you can join our newsletter at https://musebio.kit.com/c075845a8e to receive periodic updates.
 
 **Q: What if I get pregnant?**  
 A: Pregnancy is a deferral. Once you deliver, are >6 months postpartum, fully weaned, and your period returns (1-2 normal cycles), you can participate again!
@@ -1194,7 +1194,7 @@ A: Please do! We have optional 2-5 minute survey after each donation. Your input
 ### Social Media
 - **Instagram:** [@muse_bio](https://www.instagram.com/muse_bio/) - Follow for updates!
 - **LinkedIn:** [Muse Bio](https://www.linkedin.com/company/musebio-cells/) - Connect with us!
-- **Newsletter:** [Sign up here](https://musebio.kit.com/c075845a8e) - Stay in the loop!
+- **Newsletter:** [Join here](https://musebio.kit.com/c075845a8e) - Receive periodic updates
 
 ### Our Founders
 - **CEO:** Juliette Humer
@@ -1219,12 +1219,15 @@ San Francisco, CA 94103
 
 | **Topic** | **Contact** |
 |-----------|-------------|
-| General Questions | muse@mycells.bio or WhatsApp (coming soon!) |
-| Investor Inquiries | muse@mycells.bio or WhatsApp |
-| Partnership Opportunities | muse@mycells.bio or WhatsApp |
+| Donor Questions (how to donate, eligibility, compensation, programs) | aya@mycells.bio |
+| Menstrual Cup / Kit Questions (how to use, who is eligible, how to get a kit) | aya@mycells.bio |
+| Recurring Donation Questions | aya@mycells.bio |
+| Tax-Deductibility Questions | aya@mycells.bio |
+| Investor Inquiries | muse@mycells.bio with "Investor Inquiry" in subject line |
+| Partnership Opportunities | muse@mycells.bio with "Partnership Inquiry" in subject line |
 | Media Inquiries | muse@mycells.bio |
-| Technical Website Issues | muse@mycells.bio |
-| Urgent Matters | Email with "URGENT" in subject line |
+| Technical Website Issues (broken links, form errors, page not loading) | muse@mycells.bio |
+| Urgent Matters (time-sensitive donor issues, shipping problems, urgent media) | aya@mycells.bio |
 
 ### Program Information
 
@@ -1249,12 +1252,12 @@ After signup, we'll send detailed instructions via email and Google Calendar lin
 
 ### Investment Inquiry Process
 
-We'd love to discuss investment opportunities with qualified investors!
+We'd love to hear from interested investors!
 
-**To Begin Discussions:**
+**To Get in Touch:**
 1. Email us at **muse@mycells.bio** with "Investor Inquiry" in subject line
-2. Include brief introduction and your investment focus
-3. We'll respond within 2-3 business days to schedule initial conversation
+2. Include a brief introduction and your investment focus
+3. Our team will be in touch
 
 ---
 
@@ -1296,13 +1299,7 @@ We're interested in partnerships with:
    - Type of partnership you're interested in
    - Brief description of your organization
    - How you see potential collaboration
-3. We'll respond within 2-3 business days
-
-**What Happens Next:**
-- Initial call to discuss mutual interests
-- NDA if needed
-- Detailed partnership proposal
-- Timeline and next steps
+3. Our team will be in touch to discuss next steps
 
 ---
 
@@ -1361,13 +1358,16 @@ We're interested in partnerships with:
 
 ### When to Escalate to Human
 
-**Contact muse@mycells.bio immediately if:**
+**For donor, cup, eligibility, or urgent matters — contact aya@mycells.bio:**
 - User has specific medical condition questions needing detailed assessment
 - User is confused about commercial rights after explanation
 - User has concerns about positive test result
 - User reports adverse events
 - User has medical symptoms or urgent health concerns
 - User has complex eligibility questions
+- Time-sensitive donor issues or shipping problems
+
+**For technical website issues (broken links, form errors, page not loading) — contact muse@mycells.bio**
 
 ### Quick Facts
 
@@ -1377,7 +1377,8 @@ We're interested in partnerships with:
 - COO: Tommy Kronmark
 - Team: 6 people
 - Location: Frontier Tower, 995 Market St, SF
-- Email: muse@mycells.bio
+- Donor/cup/eligibility email: aya@mycells.bio
+- General/technical email: muse@mycells.bio
 
 **Research Study:**
 - IRB: Pro00088779 (Advarra IRB)
